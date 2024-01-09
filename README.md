@@ -4,23 +4,24 @@
   <a href="https://github.com/Shuaibbinreza"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Graduate,;Problem+Solving+and+Enthusiast,;Love+to+solve+problem+and+work+with+data,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-
+<!-- <picture><img src = "https://avatars.githubusercontent.com/u/42146647?v=4" width = 200px height=200px></picture>  -->
+<picture><img src = "https://avatars.githubusercontent.com/u/42146647?v=4" width = 200px height=200px></picture>
+<br>
+<h1>Regarding Me</h1>
+<h4>💻 Professional</h4>
 <br>
 
+- Junior Software Engineer at Tappware Solutions Ltd.
+- React Frontend Developer
+- Problem Solving Enthusiast
+- Very much interested in Machine Learning
 
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
+<h4>🎓 Education</h4>
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- BSc in CSE from Daffodil International University
+- Diploma in Computer Technology from Daffodil Polytechnic Institute
 
 <br><br>
 
@@ -36,6 +37,8 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Static Badge](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=red)
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>   
     
@@ -43,7 +46,19 @@
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Static Badge](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=black)
+
+
+<br>
+
+<br>   
+    
+- **Back-End and Database**:
+
+   ![Static Badge](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=black)
+   ![Static Badge](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+   ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 <br>
 
@@ -136,12 +151,6 @@
 <br>
 <br>
 <br>
-
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
 <br>
 <br>
 <br>
