@@ -23,6 +23,13 @@
 - BSc in CSE from Daffodil International University
 - Diploma in Computer Technology from Daffodil Polytechnic Institute
 
+<h4>🔗 Links</h4>
+<br>
+<a href="https://sites.google.com/view/shuaib-binreza/home" target='black'>
+	<img src="https://github.com/Shuaibbinreza/Shuaibbinreza/assets/42146647/c07af882-019f-4423-81dd-b891dc55170c" width= 100px height=100px><br>
+	<p>Portfolio</p>
+</a>
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -125,7 +132,7 @@
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
+<a href="https://twitter.com/Shuaib_Bin_Reza" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  shuaibbinreza-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
