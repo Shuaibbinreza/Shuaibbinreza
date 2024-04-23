@@ -10,7 +10,7 @@
 <br>
 
 - Junior Software Engineer at Tappware Solutions Ltd.
-- React Frontend Developer
+- Laravel and React Developer
 - Problem Solving Enthusiast
 - Very much interested in Machine Learning
 
